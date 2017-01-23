@@ -7,29 +7,29 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		BF326A711E363F51001F41A5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BF326A701E363F51001F41A5 /* main.m */; };
-		BF326A741E363F51001F41A5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BF326A731E363F51001F41A5 /* AppDelegate.m */; };
-		BF326A771E363F51001F41A5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF326A761E363F51001F41A5 /* ViewController.m */; };
-		BF326A7A1E363F51001F41A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF326A781E363F51001F41A5 /* Main.storyboard */; };
-		BF326A7C1E363F51001F41A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF326A7B1E363F51001F41A5 /* Assets.xcassets */; };
-		BF326A7F1E363F51001F41A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF326A7D1E363F51001F41A5 /* LaunchScreen.storyboard */; };
+		BF326A941E3652B5001F41A5 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = BF326A931E3652B5001F41A5 /* main.m */; };
+		BF326A971E3652B5001F41A5 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = BF326A961E3652B5001F41A5 /* AppDelegate.m */; };
+		BF326A9A1E3652B5001F41A5 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = BF326A991E3652B5001F41A5 /* ViewController.m */; };
+		BF326A9D1E3652B5001F41A5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF326A9B1E3652B5001F41A5 /* Main.storyboard */; };
+		BF326A9F1E3652B5001F41A5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BF326A9E1E3652B5001F41A5 /* Assets.xcassets */; };
+		BF326AA21E3652B5001F41A5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BF326AA01E3652B5001F41A5 /* LaunchScreen.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		BF326A6C1E363F51001F41A5 /* ExerciseLogIn.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExerciseLogIn.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		BF326A701E363F51001F41A5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		BF326A721E363F51001F41A5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
-		BF326A731E363F51001F41A5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		BF326A751E363F51001F41A5 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		BF326A761E363F51001F41A5 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		BF326A791E363F51001F41A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		BF326A7B1E363F51001F41A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		BF326A7E1E363F51001F41A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		BF326A801E363F51001F41A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BF326A8F1E3652B5001F41A5 /* ExerciseEvenOdd.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ExerciseEvenOdd.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BF326A931E3652B5001F41A5 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		BF326A951E3652B5001F41A5 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		BF326A961E3652B5001F41A5 /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		BF326A981E3652B5001F41A5 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		BF326A991E3652B5001F41A5 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		BF326A9C1E3652B5001F41A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		BF326A9E1E3652B5001F41A5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		BF326AA11E3652B5001F41A5 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		BF326AA31E3652B5001F41A5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		BF326A691E363F50001F41A5 /* Frameworks */ = {
+		BF326A8C1E3652B5001F41A5 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -39,42 +39,42 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		BF326A631E363F50001F41A5 = {
+		BF326A861E3652B5001F41A5 = {
 			isa = PBXGroup;
 			children = (
-				BF326A6E1E363F51001F41A5 /* ExerciseLogIn */,
-				BF326A6D1E363F51001F41A5 /* Products */,
+				BF326A911E3652B5001F41A5 /* ExerciseEvenOdd */,
+				BF326A901E3652B5001F41A5 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		BF326A6D1E363F51001F41A5 /* Products */ = {
+		BF326A901E3652B5001F41A5 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BF326A6C1E363F51001F41A5 /* ExerciseLogIn.app */,
+				BF326A8F1E3652B5001F41A5 /* ExerciseEvenOdd.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		BF326A6E1E363F51001F41A5 /* ExerciseLogIn */ = {
+		BF326A911E3652B5001F41A5 /* ExerciseEvenOdd */ = {
 			isa = PBXGroup;
 			children = (
-				BF326A721E363F51001F41A5 /* AppDelegate.h */,
-				BF326A731E363F51001F41A5 /* AppDelegate.m */,
-				BF326A751E363F51001F41A5 /* ViewController.h */,
-				BF326A761E363F51001F41A5 /* ViewController.m */,
-				BF326A781E363F51001F41A5 /* Main.storyboard */,
-				BF326A7B1E363F51001F41A5 /* Assets.xcassets */,
-				BF326A7D1E363F51001F41A5 /* LaunchScreen.storyboard */,
-				BF326A801E363F51001F41A5 /* Info.plist */,
-				BF326A6F1E363F51001F41A5 /* Supporting Files */,
+				BF326A951E3652B5001F41A5 /* AppDelegate.h */,
+				BF326A961E3652B5001F41A5 /* AppDelegate.m */,
+				BF326A981E3652B5001F41A5 /* ViewController.h */,
+				BF326A991E3652B5001F41A5 /* ViewController.m */,
+				BF326A9B1E3652B5001F41A5 /* Main.storyboard */,
+				BF326A9E1E3652B5001F41A5 /* Assets.xcassets */,
+				BF326AA01E3652B5001F41A5 /* LaunchScreen.storyboard */,
+				BF326AA31E3652B5001F41A5 /* Info.plist */,
+				BF326A921E3652B5001F41A5 /* Supporting Files */,
 			);
-			path = ExerciseLogIn;
+			path = ExerciseEvenOdd;
 			sourceTree = "<group>";
 		};
-		BF326A6F1E363F51001F41A5 /* Supporting Files */ = {
+		BF326A921E3652B5001F41A5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				BF326A701E363F51001F41A5 /* main.m */,
+				BF326A931E3652B5001F41A5 /* main.m */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -82,39 +82,39 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BF326A6B1E363F50001F41A5 /* ExerciseLogIn */ = {
+		BF326A8E1E3652B5001F41A5 /* ExerciseEvenOdd */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BF326A831E363F51001F41A5 /* Build configuration list for PBXNativeTarget "ExerciseLogIn" */;
+			buildConfigurationList = BF326AA61E3652B5001F41A5 /* Build configuration list for PBXNativeTarget "ExerciseEvenOdd" */;
 			buildPhases = (
-				BF326A681E363F50001F41A5 /* Sources */,
-				BF326A691E363F50001F41A5 /* Frameworks */,
-				BF326A6A1E363F50001F41A5 /* Resources */,
+				BF326A8B1E3652B5001F41A5 /* Sources */,
+				BF326A8C1E3652B5001F41A5 /* Frameworks */,
+				BF326A8D1E3652B5001F41A5 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = ExerciseLogIn;
-			productName = ExerciseLogIn;
-			productReference = BF326A6C1E363F51001F41A5 /* ExerciseLogIn.app */;
+			name = ExerciseEvenOdd;
+			productName = ExerciseEvenOdd;
+			productReference = BF326A8F1E3652B5001F41A5 /* ExerciseEvenOdd.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		BF326A641E363F50001F41A5 /* Project object */ = {
+		BF326A871E3652B5001F41A5 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = Ingrid;
 				TargetAttributes = {
-					BF326A6B1E363F50001F41A5 = {
+					BF326A8E1E3652B5001F41A5 = {
 						CreatedOnToolsVersion = 8.2.1;
 						ProvisioningStyle = Automatic;
 					};
 				};
 			};
-			buildConfigurationList = BF326A671E363F50001F41A5 /* Build configuration list for PBXProject "ExerciseLogIn" */;
+			buildConfigurationList = BF326A8A1E3652B5001F41A5 /* Build configuration list for PBXProject "ExerciseEvenOdd" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -122,55 +122,55 @@
 				en,
 				Base,
 			);
-			mainGroup = BF326A631E363F50001F41A5;
-			productRefGroup = BF326A6D1E363F51001F41A5 /* Products */;
+			mainGroup = BF326A861E3652B5001F41A5;
+			productRefGroup = BF326A901E3652B5001F41A5 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BF326A6B1E363F50001F41A5 /* ExerciseLogIn */,
+				BF326A8E1E3652B5001F41A5 /* ExerciseEvenOdd */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		BF326A6A1E363F50001F41A5 /* Resources */ = {
+		BF326A8D1E3652B5001F41A5 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF326A7F1E363F51001F41A5 /* LaunchScreen.storyboard in Resources */,
-				BF326A7C1E363F51001F41A5 /* Assets.xcassets in Resources */,
-				BF326A7A1E363F51001F41A5 /* Main.storyboard in Resources */,
+				BF326AA21E3652B5001F41A5 /* LaunchScreen.storyboard in Resources */,
+				BF326A9F1E3652B5001F41A5 /* Assets.xcassets in Resources */,
+				BF326A9D1E3652B5001F41A5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		BF326A681E363F50001F41A5 /* Sources */ = {
+		BF326A8B1E3652B5001F41A5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BF326A771E363F51001F41A5 /* ViewController.m in Sources */,
-				BF326A741E363F51001F41A5 /* AppDelegate.m in Sources */,
-				BF326A711E363F51001F41A5 /* main.m in Sources */,
+				BF326A9A1E3652B5001F41A5 /* ViewController.m in Sources */,
+				BF326A971E3652B5001F41A5 /* AppDelegate.m in Sources */,
+				BF326A941E3652B5001F41A5 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXVariantGroup section */
-		BF326A781E363F51001F41A5 /* Main.storyboard */ = {
+		BF326A9B1E3652B5001F41A5 /* Main.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BF326A791E363F51001F41A5 /* Base */,
+				BF326A9C1E3652B5001F41A5 /* Base */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
 		};
-		BF326A7D1E363F51001F41A5 /* LaunchScreen.storyboard */ = {
+		BF326AA01E3652B5001F41A5 /* LaunchScreen.storyboard */ = {
 			isa = PBXVariantGroup;
 			children = (
-				BF326A7E1E363F51001F41A5 /* Base */,
+				BF326AA11E3652B5001F41A5 /* Base */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -178,7 +178,7 @@
 /* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
-		BF326A811E363F51001F41A5 /* Debug */ = {
+		BF326AA41E3652B5001F41A5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -225,7 +225,7 @@
 			};
 			name = Debug;
 		};
-		BF326A821E363F51001F41A5 /* Release */ = {
+		BF326AA51E3652B5001F41A5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -266,26 +266,24 @@
 			};
 			name = Release;
 		};
-		BF326A841E363F51001F41A5 /* Debug */ = {
+		BF326AA71E3652B5001F41A5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = ExerciseLogIn/Info.plist;
+				INFOPLIST_FILE = ExerciseEvenOdd/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = its.tsam.ingrid.ExerciseLogIn;
+				PRODUCT_BUNDLE_IDENTIFIER = its.tsam.ingrid.ExerciseEvenOdd;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
 		};
-		BF326A851E363F51001F41A5 /* Release */ = {
+		BF326AA81E3652B5001F41A5 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = "";
-				INFOPLIST_FILE = ExerciseLogIn/Info.plist;
+				INFOPLIST_FILE = ExerciseEvenOdd/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = its.tsam.ingrid.ExerciseLogIn;
+				PRODUCT_BUNDLE_IDENTIFIER = its.tsam.ingrid.ExerciseEvenOdd;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;
@@ -293,24 +291,24 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BF326A671E363F50001F41A5 /* Build configuration list for PBXProject "ExerciseLogIn" */ = {
+		BF326A8A1E3652B5001F41A5 /* Build configuration list for PBXProject "ExerciseEvenOdd" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BF326A811E363F51001F41A5 /* Debug */,
-				BF326A821E363F51001F41A5 /* Release */,
+				BF326AA41E3652B5001F41A5 /* Debug */,
+				BF326AA51E3652B5001F41A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BF326A831E363F51001F41A5 /* Build configuration list for PBXNativeTarget "ExerciseLogIn" */ = {
+		BF326AA61E3652B5001F41A5 /* Build configuration list for PBXNativeTarget "ExerciseEvenOdd" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				BF326A841E363F51001F41A5 /* Debug */,
-				BF326A851E363F51001F41A5 /* Release */,
+				BF326AA71E3652B5001F41A5 /* Debug */,
+				BF326AA81E3652B5001F41A5 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = BF326A641E363F50001F41A5 /* Project object */;
+	rootObject = BF326A871E3652B5001F41A5 /* Project object */;
 }

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.m
-//  ExerciseLogIn
+//  ExerciseEvenOdd
 //
 //  Created by ingrid on 23/01/17.
 //  Copyright © 2017 Ingrid. All rights reserved.

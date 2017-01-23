@@ -10,6 +10,9 @@
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, weak) IBOutlet UILabel *answerOnNumberDidType;
+
+-(IBAction)numberTypedEditingDidEndOnExit:(id)sender;
 
 @end
 

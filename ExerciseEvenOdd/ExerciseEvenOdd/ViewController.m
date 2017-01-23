@@ -7,8 +7,12 @@
 //
 
 #import "ViewController.h"
+#define PARI @"PARI"
+#define DISPARI @"DISPARI"
 
-@interface ViewController ()
+@interface ViewController () {
+    int _numberChoosed;
+}
 
 @end
 
@@ -25,5 +29,19 @@
     // Dispose of any resources that can be recreated.
 }
 
+-(IBAction)numberTypedEditingDidEndOnExit:(UITextField*)sender {
+    
+    _numberChoosed = [sender.text intValue];
+    if(_numberChoosed == 0) {
+        [self.answerOnNumberDidType setText: @"Hai digitato lo zero!"];
+        NSLog(@"Il numero digitato è lo zero");
+    } else if(_numberChoosed % 2 == 0){
+        [self.answerOnNumberDidType setText: PARI];
+        NSLog(@"Il numero digitato è: %@", PARI);
+    } else {
+        [self.answerOnNumberDidType setText: DISPARI] ;
+        NSLog(@"Il numero digitato è: %@", DISPARI);
+    }
+}
 
 @end
